@@ -69,3 +69,5 @@ All business details are **fabricated for coursework**—not a real gym’s oper
 ## Credits
 
 Structure inspired by community contributions in the LLM engineering course (e.g. markdown knowledge base + Chroma + Gradio pattern). Branding and copy are original mock data for **Farhan Fitness**.
+
+Inspired by Ed Donner's LLM Engineering course on Udemy
